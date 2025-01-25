@@ -49,9 +49,6 @@ ThermoFan is a temperature-controlled fan circuit designed using an NE555 timer 
 - DIY temperature-controlled projects
 - Learning analog circuit design
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 Designed and developed by **tidaschandoopasilva**, 2025.
 
